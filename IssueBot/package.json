@@ -9,7 +9,7 @@
     "chai": "^4.1.2",
     "mocha": "^6.2.1",
     "nock": "^11.1.0",
-    "underscore": "^1.6.0"
+    "underscore": "^1.12.1"
   },
   "dependencies": {
     "forecast.io": "0.0.11",
